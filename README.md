@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Valentine's Day</title>
+    <title> Valentine's Day</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -44,18 +44,17 @@
             left: 50%;
             transform: translateX(-50%);
         }
-
   .yes:hover{ 
   background-color: #d81b60;
             }
-   </style>
-</head>
+   <style/>
+<head/>
 <body>
-    <h1>Will you be my Valentine Lamar? ❤️</h1>
+    <h1>Will you be my Valentine Lamar? ❤️<h1/>
     <div class="btn-container">
         <button class="yes" onclick="sayYes()">Yes</button>
         <button class="no" onmouseover="moveNo()">No</button
-                                                      </div>
+                                                      <div/>
 
   <script>
         function sayYes() {
@@ -69,6 +68,6 @@
             button.style.left = `${x}px`;
             button.style.top = `${y}px`;
         }
-    </script>
-</body>
-</html>
+   <script/>
+<body/>
+<html/>
