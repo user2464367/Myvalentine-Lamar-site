@@ -54,7 +54,7 @@
     <div class="btn-container">
         <button class="yes" onclick="sayYes()">Yes</button>
         <button class="no" onmouseover="moveNo()">No</button
-                                                      <div/>
+                                            <div/>
 
   <script>
         function sayYes() {
